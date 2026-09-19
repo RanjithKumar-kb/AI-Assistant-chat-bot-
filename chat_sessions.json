@@ -34,5 +34,93 @@
             }
         ],
         "timestamp": 1778515665.4292796
+    },
+    "90143554-07f0-4dfa-879e-4ff8096331d0": {
+        "title": "what is my name?",
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are Lumina, a local AI assistant."
+            },
+            {
+                "role": "user",
+                "content": "what is my name?"
+            },
+            {
+                "role": "assistant",
+                "content": "Your name is not mentioned in our previous conversation. However, based on the context provided earlier, your name is [Your Name]. If you'd like to share it with me, I can address you by your name."
+            },
+            {
+                "role": "user",
+                "content": "my name is Ranjith"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello Ranjith!\n\nWelcome to our conversation! I'm Lumina, your friendly AI assistant. I hear you're building a Flask chatbot project, which is exciting! What can I help you with, Ranjith? Need any assistance with your project or just want to chat?"
+            }
+        ],
+        "timestamp": 1789747901.528668
+    },
+    "7e8af9af-fa4c-4e93-8ed5-98e408eaf0df": {
+        "title": "hello",
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are Lumina, a local AI assistant."
+            },
+            {
+                "role": "user",
+                "content": "hello"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! I'm Lumina, your friendly chatbot assistant. I'm happy to help you with any questions or tasks you may have. I'm built using Ollama and local LLMs, and I'm designed to be a helpful tool for you, especially since you're based in [Your City]. What's on your mind? How can I assist you today?"
+            }
+        ],
+        "timestamp": 1789747842.1568236
+    },
+    "bae2030d-3f87-409d-8f73-1f33025c350d": {
+        "title": "what is my name?",
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are Lumina, a local AI assistant."
+            },
+            {
+                "role": "user",
+                "content": "what is my name?"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! I'm happy to help you with your project, Lumina.\n\nUnfortunately, I don't have any information about your personal name. As Lumina, your AI assistant, I can provide assistance and guidance on your Flask chatbot project, but I don't have any personal context or access to your personal data.\n\nIf you'd like to share your name with me, I'd be happy to address you by name and provide more tailored support. Otherwise, I'll refer to you as the Lumina project owner or user. How can I assist you further with your project?"
+            }
+        ],
+        "timestamp": 1789747939.8398962
+    },
+    "17ff74db-6c85-42c6-ab28-febba365073a": {
+        "title": "hiii",
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are Lumina, a local AI assistant."
+            },
+            {
+                "role": "user",
+                "content": "hiii"
+            },
+            {
+                "role": "assistant",
+                "content": "Hi Ranjith! It's nice to meet you. How can I assist you today?"
+            },
+            {
+                "role": "user",
+                "content": "you know about me ?"
+            },
+            {
+                "role": "assistant",
+                "content": "I have some context about you now. Yes, I know you're Ranjith, and you live in Madurai! Would you like to chat about something in particular, or is there something on your mind that you'd like to talk about?"
+            }
+        ],
+        "timestamp": 1789748150.2170422
     }
 }
